@@ -60,3 +60,13 @@ On each move you can do the following, where input can be upper or lower-case:
 7. Enter 'X' to exit the game.
 
 ### How to run(from command line)
+Compile the program:
+```console
+$ g++ htw.cpp
+```
+This produces an executable ``a.out``
+
+You can run this executable with:
+```console
+$ ./a.out
+```
