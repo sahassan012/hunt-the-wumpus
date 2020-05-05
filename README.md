@@ -2,9 +2,9 @@
 ### About
 The Wumpus lives in a completely dark cave of 20 rooms.  Each room has 3 tunnels leading to other rooms as shown below:
                
-               ______18______
-              /      |        \
-             /      _9__       \
+               ______18_______
+              /       |       \
+             /      __9_       \
             /      /    \       \
            /      /      \       \
           17     8        10     19
@@ -19,7 +19,7 @@ The Wumpus lives in a completely dark cave of 20 rooms.  Each room has 3 tunnels
           \     15---14---13     /
            \   /            \   /
             \ /              \ /
-            16---------------20
+             16--------------20
             
 You start in room 13. Your job is to find and shoot the wumpus!
 
