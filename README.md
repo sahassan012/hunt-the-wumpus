@@ -3,10 +3,10 @@
 The Wumpus lives in a completely dark cave of 20 rooms.  Each room has 3 tunnels leading to other rooms as shown below:
                
                ______18______
-              /      |       \
-             /      _9__      \
-            /      /    \      \
-           /      /      \      \
+              /      |        \
+             /      _9__       \
+            /      /    \       \
+           /      /      \       \
           17     8        10     19
           | \   / \      /  \   / |
           |  \ /   \    /    \ /  |
