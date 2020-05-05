@@ -21,7 +21,7 @@ The Wumpus lives in a completely dark cave of 20 rooms.  Each room has 3 tunnels
             \ /              \ /
             16---------------20
             
-Your job is to find and shoot the wumpus!
+You start in room 13. Your job is to find and shoot the wumpus!
 
 ### How it works
 The Wumpus lives in a completely dark cave of 20 rooms. Each
