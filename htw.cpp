@@ -947,8 +947,8 @@ struct killTheWumpus
 int main()
 {
 	// Seed the random number generator.  Change seed to time(0) to change output each time.
-	//srand(time(0));
-	srand(1);
+	srand(time(0));
+	//srand(1);
 
 	//Calling the struct for the Hunt the Wumpus game
 	killTheWumpus p1;
